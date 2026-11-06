@@ -2,7 +2,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=100000&repeat=false&color=A78BFA&center=true&vCenter=true&width=620&height=56&lines=Hi%2C+I%27m+Chuming000." alt="Hi, I'm Chuming000." /><br />
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2500&pause=100000&repeat=false&color=A78BFA&center=true&vCenter=true&width=820&height=40&lines=Exploring+LLMs%2C+Reinforcement+Learning+%26+Beyond." alt="Exploring LLMs, Reinforcement Learning & Beyond." /><br />
-<sub>Mostly into LLMs and RL. Occasionally lost in a good game.</sub><br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/sub-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/sub-light.svg" />
+  <img src="./assets/sub-dark.svg" alt="Mostly into LLMs and RL. Occasionally lost in a good game." />
+</picture><br />
 <br />
 <img src="./assets/tags-v2.svg" alt="LLMs · RL · AI Systems · Gaming" /><br />
 <br />
