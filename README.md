@@ -4,9 +4,9 @@
 
 </div>
 
-<h3 align="center">喜欢 LLM · RL · VibeCoding 和 主机游戏</h3>
+<h3 align="center">LLM learner, RL tinkerer, VibeCoder, console gamer.</h3>
 
-<p align="center"><sub>工程向的 LLM 学习者 —— 读论文，写代码，跑实验。</sub></p>
+<p align="center"><sub>Engineering-minded LLM learner — read papers, write code, run experiments.</sub></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LLM-6D28D9?style=flat-square" alt="LLM" />
