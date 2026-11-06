@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2500&pause=100000&repeat=false&color=A78BFA&center=true&vCenter=true&width=820&height=40&lines=Exploring+LLMs%2C+Reinforcement+Learning+%26+Beyond." alt="Exploring LLMs, Reinforcement Learning & Beyond." /><br />
 <sub>Mostly into LLMs and RL. Occasionally lost in a good game.</sub><br />
 <br />
-<img src="./assets/tags.svg" alt="LLMs · RL · AI Systems · Gaming" /><br />
+<img src="./assets/tags-v2.svg" alt="LLMs · RL · AI Systems · Gaming" /><br />
 <br />
 <a href="https://github.com/Chuming000"><img src="https://img.shields.io/badge/GITHUB-Chuming000-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a> <a href="mailto:wcm2681426063@163.com"><img src="https://img.shields.io/badge/MAIL-wcm2681426063%40163.com-181717?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 
