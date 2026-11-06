@@ -37,6 +37,18 @@
 
 </div>
 
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chuming000/Chuming000/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chuming000/Chuming000/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Chuming000/Chuming000/output/github-snake.svg" width="820" alt="contribution snake animation" />
+</picture>
+
+</div>
+
 <div align="center">
 
 <sub><i>"Talk is cheap. Show me the code."</i></sub>
