@@ -1,21 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=100000&repeat=false&color=A78BFA&center=true&vCenter=true&width=620&height=80&lines=Hi%2C+I%27m+Chuming000." alt="Hi, I'm Chuming000." />
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2500&pause=100000&repeat=false&color=A78BFA&center=true&vCenter=true&width=820&height=48&lines=Exploring+LLMs%2C+Reinforcement+Learning+%26+Beyond." alt="Exploring LLMs, Reinforcement Learning & Beyond." />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=100000&repeat=false&color=A78BFA&center=true&vCenter=true&width=620&height=56&lines=Hi%2C+I%27m+Chuming000." alt="Hi, I'm Chuming000." /><br />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2500&pause=100000&repeat=false&color=A78BFA&center=true&vCenter=true&width=820&height=40&lines=Exploring+LLMs%2C+Reinforcement+Learning+%26+Beyond." alt="Exploring LLMs, Reinforcement Learning & Beyond." /><br />
+<sub>Mostly into LLMs and RL. Occasionally lost in a good game.</sub><br />
+<br />
+<img src="./assets/tags.svg" alt="LLMs · RL · AI Systems · Gaming" /><br />
+<br />
+<a href="https://github.com/Chuming000"><img src="https://img.shields.io/badge/GITHUB-Chuming000-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a> <a href="mailto:wcm2681426063@163.com"><img src="https://img.shields.io/badge/MAIL-wcm2681426063%40163.com-181717?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 
 </div>
-
-<p align="center"><sub>Mostly into LLMs and RL. Occasionally lost in a good game.</sub></p>
-
-<p align="center">
-  <img src="./assets/tags.svg" alt="LLMs · RL · AI Systems · Gaming" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Chuming000"><img src="https://img.shields.io/badge/GITHUB-Chuming000-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:wcm2681426063@163.com"><img src="https://img.shields.io/badge/MAIL-wcm2681426063%40163.com-181717?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-</p>
 
 <div align="center">
 
