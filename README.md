@@ -25,9 +25,9 @@
 <table>
   <tr>
     <td valign="top">
-      <img src="https://streak-stats.demolab.com?user=Chuming000&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=A78BFA&fire=A78BFA&currStreakNum=A78BFA&currStreakLabel=A78BFA&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" width="430" alt="GitHub streak" />
+      <img src="https://streak-stats.demolab.com?user=Chuming000&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=A78BFA&fire=A78BFA&currStreakNum=A78BFA&currStreakLabel=A78BFA&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" width="460" alt="GitHub streak" />
       <br />
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chuming000&theme=github_dark" width="430" alt="Profile details" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chuming000&theme=github_dark" width="460" alt="Profile details" />
     </td>
     <td valign="top">
       <img src="./assets/pixel-boy.png" width="300" alt="pixel me" />
