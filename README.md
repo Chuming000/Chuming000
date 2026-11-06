@@ -4,15 +4,12 @@
 
 </div>
 
-<h3 align="center">LLM learner, RL tinkerer, VibeCoder, console gamer.</h3>
+<h3 align="center">Exploring LLMs, Reinforcement Learning &amp; Beyond.</h3>
 
-<p align="center"><sub>Engineering-minded LLM learner — read papers, write code, run experiments.</sub></p>
+<p align="center"><sub>Mostly into LLMs and RL. Occasionally lost in a good game.</sub></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LLM-6D28D9?style=flat-square" alt="LLM" />
-  <img src="https://img.shields.io/badge/RL-7C3AED?style=flat-square" alt="RL" />
-  <img src="https://img.shields.io/badge/VibeCoding-8B5CF6?style=flat-square" alt="VibeCoding" />
-  <img src="https://img.shields.io/badge/Console%20Games-A78BFA?style=flat-square" alt="Console Games" />
+  <img src="./assets/tags.svg" alt="LLMs · RL · AI Systems · Gaming" />
 </p>
 
 <p align="center">
