@@ -2,9 +2,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=100000&repeat=false&color=A78BFA&center=true&vCenter=true&width=620&height=80&lines=Hi%2C+I%27m+Chuming000." alt="Hi, I'm Chuming000." />
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2500&pause=100000&repeat=false&color=A78BFA&center=true&vCenter=true&width=820&height=48&lines=Exploring+LLMs%2C+Reinforcement+Learning+%26+Beyond." alt="Exploring LLMs, Reinforcement Learning & Beyond." />
 
-<h3 align="center">Exploring LLMs, Reinforcement Learning &amp; Beyond.</h3>
+</div>
 
 <p align="center"><sub>Mostly into LLMs and RL. Occasionally lost in a good game.</sub></p>
 
